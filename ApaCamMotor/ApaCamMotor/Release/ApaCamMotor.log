@@ -1,0 +1,31 @@
+﻿  CamMotorMain.cpp
+CamMotorMain.cpp(397): warning C4244: '인수': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CamMotorMain.cpp(517): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CamMotorMain.cpp(614): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CamMotorMain.cpp(615): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+CamMotorMain.cpp(616): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  senoBrush.cpp
+  senoDataUnit.cpp
+  senoDataUnitSpace.cpp
+  senovision.cpp
+senoVR\senovision.cpp(152): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(154): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(155): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(165): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(176): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(179): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(180): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(190): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(226): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(265): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+senoVR\senovision.cpp(304): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  senoVR.cpp
+  SerialComm.c
+  UartBusProto.c
+  코드를 생성하고 있습니다.
+  0 of 63 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ApaCamMotor.vcxproj -> D:\notebook백업\hanul\vcpp\ApaCamMotor\Release\ApaCamMotor.exe
+  ApaCamMotor.vcxproj -> D:\notebook백업\hanul\vcpp\ApaCamMotor\Release\ApaCamMotor.pdb (Full PDB)
